@@ -1,5 +1,5 @@
 ---
-title: "Write and Explain A Program"
+title: "Write A Program"
 date: 2023-04-13
 ---
 
