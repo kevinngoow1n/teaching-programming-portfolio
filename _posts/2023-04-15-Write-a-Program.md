@@ -1,5 +1,5 @@
 ---
-title: "Write A Program"
+title: "Write A Program - Variables"
 date: 2023-04-15
 ---
 
